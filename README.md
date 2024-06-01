@@ -12,7 +12,7 @@
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
-- copy .env.example to .env
+- cp .env.example .env
 - run `` php artisan key:generate ``
 - set up your database in the .env
 - run `` php artisan migrate --seed ``
